@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirebasePush</string>
+
+    <string name="notification_channel_id">firebase_push_notification</string>
+    <string name="notification_channel_name">Firebase Push Notification</string>
+    <string name="notification_channel_description">Firebase Push Notification</string>
+
+</resources>
